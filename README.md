@@ -1,18 +1,4 @@
-# skill
-Carrie's skills
-Last login: Thu Jul  9 18:20:58 on ttys003
-cd /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal && /usr/bin/vim /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal/README.md
-kanyun@kanyundeMacBook-Air ~ % cd /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal && /usr/bin/vim /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal/README.md
-
-
-
-
-Last login: Thu Jul  9 18:20:58 on ttys003
-cd /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal && /usr/bin/vim /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal/README.md
-kanyun@kanyundeMacBook-Air ~ % cd /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal && /usr/bin/vim /Users/kanyun/Documents/external-vibe-coding/theme-editable-journal/README.md
-
-
-
+[README.md](https://github.com/user-attachments/files/29844485/README.md)
 # Theme Editable Journal
 
 根据照片主题自动匹配视觉风格，生成可继续编辑的电子手帐 / Plog。
@@ -139,16 +125,3 @@ theme-editable-journal/
 - 主题底纹和照片内容呼应
 - 文案短句、克制、有完整小故事感
 - 用户可以继续调整，而不是只能接受一张静态成品图
-
-
-
-
-
-
-
-
-
-
-[README.md](https://github.com/user-attachments/files/29844397/README.md)
-
-
