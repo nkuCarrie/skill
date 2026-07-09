@@ -8,11 +8,12 @@
 ## 成品展示
 
 ### 自然博物馆：清新科普手帐
-![自然博物馆电子手帐示例](theme-editable-journal/assets/showcase/natural-museum-journal.png)
 
+![自然博物馆电子手帐示例](theme-editable-journal/assets/html-template/showcase/natural-museum-journal.png)
 
 ### 书画馆：观墨路线手帐
-![书画馆电子手帐示例](theme-editable-journal/assets/showcase/calligraphy-gallery-journal.png)
+
+![书画馆电子手帐示例](theme-editable-journal/assets/html-template/showcase/calligraphy-gallery-journal.png)
 
 ## 谁适合使用
 
